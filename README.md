@@ -25,3 +25,13 @@
 ## 🚀 Teknologi yang Digunakan:
 - ✅ Greenfoot sebagai engine utama untuk pengembangan game.
 - ✅ Java sebagai bahasa pemrograman utama.
+
+## 🖥️Tampilan:
+## 📜 MainMenu
+![Menu Utama](https://raw.githubusercontent.com/saripudin14/img/main/Menu.jpg)
+
+
+## 🕹️ Gameplay
+![Play Button 1](https://raw.githubusercontent.com/saripudin14/img/main/play%20(1).jpg)
+![Play Button 2](https://raw.githubusercontent.com/saripudin14/img/main/play%20(2).jpg)
+
