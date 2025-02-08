@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Boss
+comment1.params=player
+comment1.target=Boss(Player)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ moveBoss()
+comment4.params=
+comment4.target=void\ shootBullet()
+comment5.params=
+comment5.target=void\ animateFlying()
+numComments=6

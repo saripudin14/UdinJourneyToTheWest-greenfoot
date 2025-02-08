@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ScrollingBackground
+comment1.params=speed
+comment1.target=ScrollingBackground(int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=speed
+comment3.target=void\ setSpeed(int)
+numComments=4
