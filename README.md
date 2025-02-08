@@ -1,5 +1,7 @@
 ## 🌟 Udin Journey to the West
-Deskripsi:
+
+
+## 🚀 Deskripsi:
 - Udin Journey to the West adalah game endless runner bergaya pixel art yang dibuat menggunakan Greenfoot. Pemain mengendalikan Udin, seorang makhluk misterius berwarna pink dan putih dengan mata besar, dalam perjalanannya menuju barat untuk mencari Kitab Suci. Dengan kemampuan lompatnya Udin harus menghindari berbagai rintangan yang menghadangnya dalam petualangan epiknya!
 
 
