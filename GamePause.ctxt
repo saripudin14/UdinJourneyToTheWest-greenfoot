@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=GamePause
+comment1.params=previousWorld\ currentScore
+comment1.target=GamePause(GameWorld,\ int)
+numComments=2

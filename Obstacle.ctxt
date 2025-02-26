@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Obstacle
+comment1.params=speed
+comment1.target=Obstacle(int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=other
+comment3.target=boolean\ intersects(greenfoot.Actor)
+comment4.params=speed
+comment4.target=void\ setSpeed(int)
+numComments=5

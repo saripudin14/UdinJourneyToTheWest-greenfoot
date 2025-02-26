@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Score
+comment1.params=
+comment1.target=Score()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ startScoring()
+comment4.params=
+comment4.target=void\ updateImage()
+comment5.params=
+comment5.target=int\ getScore()
+comment6.params=
+comment6.target=void\ stopScoring()
+numComments=7
