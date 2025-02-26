@@ -28,7 +28,7 @@
 
 ## 🖥Tampilan:
 ## 📜 MainMenu
-![Menu Utama](https://raw.githubusercontent.com/saripudin14/img/main/Menu.jpg)
+![Menu Utama](https://raw.githubusercontent.com/saripudin14/img/refs/heads/main/Menu.png)
 
 
 ## 🕹 Gameplay
