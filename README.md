@@ -32,5 +32,5 @@
 
 
 ## 🕹 Gameplay
-![Play Button 1](https://raw.githubusercontent.com/saripudin14/img/main/play%20(1).jpg)
-![Play Button 2](https://raw.githubusercontent.com/saripudin14/img/main/play%20(2).jpg)
+![Play Button 1](https://raw.githubusercontent.com/saripudin14/img/refs/heads/main/play%20(1).png)
+![Play Button 2](https://raw.githubusercontent.com/saripudin14/img/refs/heads/main/play%20(2).png)
